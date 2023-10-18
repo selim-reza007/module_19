@@ -1,0 +1,19 @@
+This file will help teacher to evaluate my this assignment.
+
+According to ostad.app's module 19 assignment work. All requirments are fullfiled.
+
+requirment 1: Must use NEXT-JS
+solution: I have created this application using next.js 
+
+requirment 2: CRUD operation using user, cart, category, order, product, product_meta, product_review model.
+solution: I have completed all the tasks.
+
+requirment 3: You Should be used at least once in the entire operation - aggregate, _avg, _count, groupBy, _max, _sum.
+solution: I have completed this requirement inside the route.js file which belongs to api/product. Here I have created two seperated functions to meet the requirement. One function is PUT() and another function is OPTIONS().
+
+requirement 4: Must be used Transactions & Rollback
+solution: I have also completed this task inside the route.js js file which belongs to api/cart file. I have created a PUT() function to meet this requirement. 
+
+Usefull information: I have added my postman documentation and .sql file (this sql file contain all table structure with their data. If you just import this file you will able to access all the data currently I am having in my database). These files name are 
+1. module-19.postman_collection.json
+2. module_19.sql
